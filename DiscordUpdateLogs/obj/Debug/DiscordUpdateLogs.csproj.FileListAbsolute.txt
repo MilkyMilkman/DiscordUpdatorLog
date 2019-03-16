@@ -1,0 +1,7 @@
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\bin\Debug\DiscordUpdateLogs.exe.config
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\bin\Debug\DiscordUpdateLogs.exe
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\bin\Debug\DiscordUpdateLogs.pdb
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\obj\Debug\DiscordUpdateLogs.csprojAssemblyReference.cache
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\obj\Debug\DiscordUpdateLogs.csproj.CoreCompileInputs.cache
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\obj\Debug\DiscordUpdateLogs.exe
+C:\Users\MrMilky\source\repos\DiscordUpdateLogs\DiscordUpdateLogs\obj\Debug\DiscordUpdateLogs.pdb
